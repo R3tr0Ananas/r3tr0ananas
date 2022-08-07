@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananas</h1>
-<h3 align="center">Knows some Python from the Time of Developing Discord Bots</h3>
+<h3 align="center">Knows some Python from the time of Developing Discord Bots</h3>
 
 <p align="left">
 </p>
