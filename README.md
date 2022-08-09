@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananas</h1>
 <h3 align="center">Terrible Python Dev</h3>
+<h3 align="center">Discord: Ananas#1149</h3>
 
 <p align="left">
 </p>
