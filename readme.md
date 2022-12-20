@@ -21,4 +21,3 @@ Bitcoin: 3Lx5C2eYWhQwtEXQbaUiFbKRyaFV2wFdcW
 LTC (LiteCoin): MNHQV1Q4Xs3fSEg78UAV2obzTuiqZGbrE1
 ```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3tr0ananas&theme=dark" alt="r3tr0ananas" /></p>
