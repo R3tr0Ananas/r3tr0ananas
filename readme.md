@@ -12,4 +12,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+### Donation
+ETH: 0x7F4212407F90b12009600DfB8F1467FFfF7D011E
+Bitcoin: 3Lx5C2eYWhQwtEXQbaUiFbKRyaFV2wFdcW
+LTC (LiteCoin): MNHQV1Q4Xs3fSEg78UAV2obzTuiqZGbrE1
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3tr0ananas&theme=dark" alt="r3tr0ananas" /></p>
